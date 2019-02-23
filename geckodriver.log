@@ -1,0 +1,35 @@
+1550920317614	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pl/svztffpd2q7c_pg_79cd87840000gn/T/rust_mozprofile.gXRmtzZrV1D3"
+1550920318797	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550920318797	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1550920320929	Marionette	INFO	Listening on port 58745
+1550920321009	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550920394499	Marionette	INFO	Stopped listening on port 58745
+1550924020935	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pl/svztffpd2q7c_pg_79cd87840000gn/T/rust_mozprofile.jdqJmbyD1cLd"
+1550924021657	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550924021657	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1550924023161	Marionette	INFO	Listening on port 59871
+1550924023210	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550924028277	Marionette	INFO	Stopped listening on port 59871
+1550924052907	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pl/svztffpd2q7c_pg_79cd87840000gn/T/rust_mozprofile.wjhvBbNHC4nO"
+1550924053434	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550924053434	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1550924054761	Marionette	INFO	Listening on port 59922
+1550924054853	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550924060931	Marionette	INFO	Stopped listening on port 59922
+1550924702683	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pl/svztffpd2q7c_pg_79cd87840000gn/T/rust_mozprofile.f32MFuPnJN0E"
+1550924703284	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550924703284	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1550924704833	Marionette	INFO	Listening on port 60001
+1550924704924	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550924776379	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pl/svztffpd2q7c_pg_79cd87840000gn/T/rust_mozprofile.vCeg7lDLonlj"
+1550924777120	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550924777120	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1550924778651	Marionette	INFO	Listening on port 60047
+1550924778749	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550924787183	Marionette	INFO	Stopped listening on port 60001
+1550924790132	Marionette	INFO	Stopped listening on port 60047
