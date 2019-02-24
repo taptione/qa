@@ -39,6 +39,9 @@ pip-delete-this-directory.txt
 # conf
 config.py
 
+# webdriver
+geckodriver.log
+
 # Unit test / coverage reports
 htmlcov/
 .tox/
