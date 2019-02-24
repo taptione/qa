@@ -1,11 +1,11 @@
 from selenium import webdriver
 import time
-from config import projects
+from config import project_urls
 
 
 class Application:
 
-    def __init__(self, browser, project):  #
+    def __init__(self, browser, project):
         if browser == "chrome":
             self.wd = webdriver.Chrome()
             self.wd.fullscreen_window()
@@ -15,13 +15,13 @@ class Application:
         elif browser == "IE":
             self.wd = webdriver.Ie()
             self.wd.maximize_window()
-        if project == '99papers':
-            self.url = projects['99papers']   # найти путь как тянуть из списка прототип
-        # self.url = 'https://99papers.com/'  # рабочий вариант для унификации проекта
-        # elif project == 'bookwormlab':
-        #     self.url = 'https://bookwormlab.com/'
+
         else:
-            raise ValueError("Unrecognized browser {}".format(browser))
+            raise ValueError(f"Unrecognized browser {browser}")
+        self.url = project_urls.get(project)
+        if not self.url:
+            self.wd.close()
+            raise ValueError(f"Ebay tu loh? {project}")
 
     def simple_test(self):
         self.wd.get(self.url)
