@@ -22,4 +22,4 @@ def pytest_addoption(parser):     # hooks for browsers, by default = Chrome
 
 def pytest_report_header(config):  # invitation in console before test run is "On"
     if config.getoption("verbose") > 0:
-        return ["Lucky - Labs Automation tests is start"]
+        return ["Automation tests is start"]
